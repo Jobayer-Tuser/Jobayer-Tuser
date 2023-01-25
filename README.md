@@ -24,19 +24,18 @@ I'm Jobayer Al Mahmud Tuser, a Full Stack Web Application Developer. I love to l
 </div>
 
 <!-- Favorite Tools -->
-## 🛠️ My Favorite Tools
+## 🛠️ Technology I work with
  <h3>👨‍💻 Programming Languages</h3>
  <p>
-  <a href="#"><img alt="C" src="https://img.shields.io/badge/-C-283593?style=flat-square&logo=c&logoColor=white"></a>
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/-C++-00549D?style=flat-square&logo=cplusplus&logoColor=white"></a>
+  
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS-264de4.svg?style=flat-square&logo=css3&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white"></a>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=yellow"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white"></a>
+  <a href="#"><img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"></a>
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white"></a>
+  
+  
  </p>
  <h3>🧰 Frameworks and Libraries</h3>
  <p>
