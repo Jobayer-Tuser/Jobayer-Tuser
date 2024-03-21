@@ -67,9 +67,9 @@ I'm Jobayer Al Mahmud Tuser, a Full Stack Web Application Developer. I love to l
   <p><img src="https://streak-stats.demolab.com?user=Jobayer-Tuser&theme=monokai-metallian&hide_border=true&mode=weekly&fire=DD2727"></p>
 </a>
  <h4>💻 GitHub Profile Stats</h4>
- <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Jobayer-Tuser Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jobayer-Tuser&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
-</a>
+</a> -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img alt="Jobayer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer-Tuser&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
 </a>
