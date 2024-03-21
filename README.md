@@ -73,6 +73,6 @@ I'm Jobayer Al Mahmud Tuser, a Full Stack Web Application Developer. I love to l
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img alt="Jobayer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer-Tuser&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710">
  <img alt="Jobayer Al Mahmud Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Jobayer-Tuser&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
 </a>
